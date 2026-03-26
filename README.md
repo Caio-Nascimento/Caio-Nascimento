@@ -1,56 +1,28 @@
 # Caio
 
-Co-founder building systems where data, logic, and software meet real-world decisions.
+I've spent most of my working life in organizational development for software, data science, and machine learning teams and now I (try to) walk the intersection between that and building systems. I work across operations, product, data, and engineering with a bias for first-principles thinking, clean abstractions, and value-adding systems over noise. Most of what interests me lives somewhere between:
 
-I work across product, data, and engineering with a bias for first-principles thinking, clean abstractions, and useful systems over noise. Most of what interests me lives somewhere between:
-
-- AI and decision-making
-- data infrastructure and lineage
-- recruiting and people systems
-- product architecture
-- mathematics, science, and formal reasoning
+- AI (agents, workflows), machine learning (recommendation, scoring systems), and data (semantic layers, lineage traceability, time-travel models)
+- org dev and people systems
+- logic, theoretical physics, and mathematics
 
 ## What I care about
 
-I like building software that makes messy reality legible.
+I like building software that makes reality easier to digest.
 
 That usually means:
 - turning fragmented information into coherent models
 - designing systems that are auditable, composable, and operationally useful
-- reducing hand-wavy workflows into clear logic
-- using automation and intelligence to remove repetitive human work
-- treating product and infrastructure as one system, not two
-
-## How I think
-
-- First principles over convention
-- Precision over jargon
-- Systems over hacks
-- Practicality over theater
-- Depth over trend-chasing
-
-## Current areas of focus
-
-- AI-assisted workflows and agents
-- semantic layers, lineage, and data modeling
-- matching, scoring, and decision systems
-- workflow automation
-- product-heavy infrastructure
-- SQL, backend logic, and internal tools
+- distilling workflows into clear intuitive logic
+- using automation and intelligence to remove non-fun human work
 
 ## Building philosophy
+I believe that systems that serve humanity must rely on honesty — be honest about what's true, honest about why they decided, honest about their economics, and honest about their failures.
 
-Good systems should:
-1. make the truth easier to find
-2. make decisions easier to explain
-3. make operations easier to scale
+So I generally follow these rules:
+1. protect the truth
+2. create explainable decisions
+3. pursue sublinear scaling
 4. fail in visible ways
-5. stay useful after the demo
 
-## Outside of work
-
-I’m drawn to science, mathematics, and any tool or idea that compresses complexity without lying about it.
-
----
-
-> Building with rigor. Optimizing for signal.
+Sometimes I overengineer or optimise early for one or more of those rules -- I need to be extra careful around that.
