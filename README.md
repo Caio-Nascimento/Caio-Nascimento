@@ -6,7 +6,7 @@ I've spent most of my working life in organizational development for software, d
 
 ## What I care about
 
-I like building software that makes reality easier to digest.
+I like building software that makes reality easier to navigate.
 
 That usually means:
 - turning fragmented information into coherent models
