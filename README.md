@@ -23,4 +23,4 @@ So I generally follow these rules:
 3. pursue sublinear scaling
 4. fail in visible ways
 
-Sometimes I overengineer or optimise early for one or more of those rules -- I need to be extra careful around that.
+Sometimes I overengineer or early optimise for one or more of those rules -- I need to be extra careful around that.
