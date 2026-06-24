@@ -15,12 +15,11 @@ That usually means:
 - using automation and intelligence to remove non-fun human work
 
 ## Building philosophy
-I believe systems that serve humanity must rely on honesty. Be honest about what's true, honest about why a decision was made, honest about their economics, and honest about their shortcomings.
+I believe systems that serve humanity must rely on honesty. Be honest about what's true, honest about their economics, and honest about their shortcomings.
 
 So I generally follow these rules:
 1. protect the truth
-2. create explainable decisions
-3. pursue sublinear scaling
-4. fail in visible ways
+2. pursue sublinear scaling
+3. fail in visible ways
 
 Sometimes I overengineer or early optimise for one or more of those rules -- I need to be extra careful around that.
