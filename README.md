@@ -15,7 +15,7 @@ That usually means:
 - using automation and intelligence to remove non-fun human work
 
 ## Building philosophy
-I believe systems that serve humanity must rely on honesty — be honest about what's true, honest about why they decided, honest about their economics, and honest about their shortcomings.
+I believe systems that serve humanity must rely on honesty. Be honest about what's true, honest about why a decision was made, honest about their economics, and honest about their shortcomings.
 
 So I generally follow these rules:
 1. protect the truth
