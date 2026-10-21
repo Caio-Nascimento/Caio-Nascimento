@@ -4,16 +4,6 @@ I've spent most of my working life in organizational development for software, d
 - org dev and people systems
 - logic, theoretical physics, and mathematics
 
-## What I care about
-
-I like building software that makes reality easier to navigate.
-
-That usually means:
-- turning fragmented information into coherent models
-- designing systems that are auditable, composable, and operationally useful
-- distilling workflows into clear intuitive logic
-- using automation and intelligence to remove non-fun human work
-
 ## Building philosophy
 I believe systems that serve humanity must rely on honesty. Be honest about what's true, honest about their economics, and honest about their shortcomings.
 
