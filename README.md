@@ -1,6 +1,6 @@
-I've spent most of my working life in talent and organizational development for software, data science, and machine learning teams and now I walk the intersection between that and building systems, to the best of my abilities. I work across operations, product, data, and engineering with a bias for first-principles thinking, clean abstractions, and value-adding systems over noise. Most of what interests me lives somewhere between:
+I've spent most of my working life in talent and organizational development for software, data science, and machine learning teams and now I walk the intersection between that and building systems, to the best of my abilities. I work across operations, product, data, and engineering with a bias for first-principles and clean abstractions. Most of what interests me lives somewhere between:
 
-- AI (agents, workflows), machine learning (recommendation, scoring systems), and data (semantic layers, lineage traceability, time-travel models)
+- AI (models, agents, workflows), machine learning (recommendation, scoring systems), and data (semantic layers, lineage traceability, time-travel models)
 - org dev and people systems
 - logic, theoretical physics, and mathematics
 
